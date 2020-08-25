@@ -47,8 +47,8 @@ public class InMemoryData {
         listOfProducts.add(Chromebook);
 
 
-        Client client1 = new Client("C1234", "Florin", "Horghidan", "florin@gmail.com", new ArrayList<>(Arrays.asList(Samsung_Smart_Watch, Samsung_Galaxy_S20)));
-        Client client2 = new Client("C1235", "Daniel", "Oana", "daniel@gmail.com", new ArrayList<>(Arrays.asList(Chromebook)));
+        Client client1 = new Client("C1234", "John", "Dean", "john@gmail.com", new ArrayList<>(Arrays.asList(Samsung_Smart_Watch, Samsung_Galaxy_S20)));
+        Client client2 = new Client("C1235", "Daniel", "Black", "daniel@gmail.com", new ArrayList<>(Arrays.asList(Chromebook)));
 
         listOfClients.add(client1);
         listOfClients.add(client2);
