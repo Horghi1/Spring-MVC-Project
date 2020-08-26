@@ -26,7 +26,7 @@ This is a demo E-commerce web Application using Spring MVC – Java Hibernate
 
 * **Welcome**
 
-![1](https://github.com/Horghi1/Spring-MVC-Project/commit/4c492c5ad1253ae79d3b20413808c76ed2714813#r41778951)
+![Welcome](https://user-images.githubusercontent.com/60060379/91293137-d4884600-e797-11ea-97a5-9696e37b8ae0.jpg)
 
 * **Products**
 
