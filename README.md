@@ -22,11 +22,11 @@ This is a demo E-commerce web Application using Spring MVC – Java Hibernate
 *	Admin can approve/decline sale process
 
 
-# ScreenShot
+# ScreenShots
 
 * **Welcome**
 
-![1](C:\Users\flori\Desktop\SpringMVCScreenShoots\Welcome.jpg)
+![1](https://github.com/Horghi1/Spring-MVC-Project/commit/4c492c5ad1253ae79d3b20413808c76ed2714813#r41778951)
 
 * **Products**
 
