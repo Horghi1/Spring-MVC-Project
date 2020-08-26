@@ -1,10 +1,8 @@
 # Online-Shopping-Spring-MVC-Hibernate
-This is a demo E-commerce web Application using Spring MVC – Java Hibernate 
-[XML Configuration] for school project. It uses JSP for templates views and it has an internal local database. 
+This is a demo E-commerce web Application using Spring MVC [XML Configuration] for school project. It uses JSP for templates views and it has an In-Memory database. 
 
 # Tools & Technologies
 *	Spring MVC Framework (Java Config)
-*	Hibernate
 *	JSP
 *	CSS
 *	Glassfish
@@ -13,7 +11,7 @@ This is a demo E-commerce web Application using Spring MVC – Java Hibernate
 *	Maven
 
 # Functionalities
-* 	Add new User 
+* Add new User 
 *	CRUD Operations like
 *	User can add product to his cart
 *	Admin can add product to the product list
