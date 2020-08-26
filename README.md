@@ -30,7 +30,7 @@ This is a demo E-commerce web Application using Spring MVC – Java Hibernate
 
 * **Products**
 
-![Products](https://user-images.githubusercontent.com/60060379/91293279-0f8a7980-e798-11ea-929e-1870f4e255e2.jpg)
+![Products](https://user-images.githubusercontent.com/60060379/91293764-cc7cd600-e798-11ea-805f-ec661601cd3e.jpg)
 
 * **Clients**
 
