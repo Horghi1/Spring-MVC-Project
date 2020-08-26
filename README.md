@@ -30,23 +30,23 @@ This is a demo E-commerce web Application using Spring MVC – Java Hibernate
 
 * **Products**
 
-![2](C:\Users\flori\Desktop\SpringMVCScreenShoots\Products.jpg)
+![Products](https://user-images.githubusercontent.com/60060379/91293279-0f8a7980-e798-11ea-929e-1870f4e255e2.jpg)
 
 * **Clients**
 
-![3](C:\Users\flori\Desktop\SpringMVCScreenShoots\Clients.jpg)
+![Clients](https://user-images.githubusercontent.com/60060379/91293339-2335e000-e798-11ea-9942-082d5f1dfb3a.jpg)
 
 * **Sales**
 
-![4](C:\Users\flori\Desktop\SpringMVCScreenShoots\Sales.jpg)
+![Sales](https://user-images.githubusercontent.com/60060379/91293367-3183fc00-e798-11ea-95d7-7ad3bba98066.jpg)
 
 * **Update Product**
 
-![5](C:\Users\flori\Desktop\SpringMVCScreenShoots\UpdateProduct.jpg)
+![UpdateProduct](https://user-images.githubusercontent.com/60060379/91293396-3d6fbe00-e798-11ea-937b-d243a7e17ab9.jpg)
 
 * **Add New Product**
 
-![6](C:\Users\flori\Desktop\SpringMVCScreenShoots\AddNewProduct.jpg)
+![AddNewProduct](https://user-images.githubusercontent.com/60060379/91293425-46f92600-e798-11ea-9db4-39e04ab72a87.jpg)
 
 
 # ER Diagram
