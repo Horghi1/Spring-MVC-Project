@@ -1,4 +1,4 @@
-# Online-Shopping-Spring-MVC-Hibernate
+# Online-Shopping-Spring-MVC
 This is a demo E-commerce web Application using Spring MVC [XML Configuration] for school project. It uses JSP for templates views and it has an In-Memory database. 
 
 # Assignment requirements:
