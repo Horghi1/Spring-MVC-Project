@@ -73,6 +73,4 @@ The application may or may not provide a data persistence mechanism
 ![AddNewProduct](https://user-images.githubusercontent.com/60060379/91293425-46f92600-e798-11ea-9db4-39e04ab72a87.jpg)
 
 
-# UML Diagram
 
-![er]()
