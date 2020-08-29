@@ -10,6 +10,7 @@ You can use any framework that is being processed in course
 
 
 *Additional specification:
+
 In this application you do not need to differentiate between regular users and administrators.
 Sales will be recorded only in the sales table. The registration of the sale will in principle contain three data:
 1. the date by which the customer will be identified, which will be the customer's id
@@ -31,10 +32,9 @@ The application may or may not provide a data persistence mechanism
 *	Spring MVC Framework (Java Config)
 *	JSP
 *	CSS
-*	Glassfish
-*	jQuery
 *	Bootstrap
-*	Maven
+* Maven
+*	GlassFish
 
 # Functionalities
 * Add new User 
